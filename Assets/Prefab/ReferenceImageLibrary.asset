@@ -26,4 +26,24 @@ MonoBehaviour:
     m_Size: {x: 0.1, y: 0.19700521}
     m_SpecifySize: 1
     m_Name: Spiderman
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: d846fbfe31f2e98498eb4b69949b3267, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5003417809514227427
+      m_GuidHigh: 9161157140905072313
+    m_SerializedTextureGuid:
+      m_GuidLow: 239889253024507291
+      m_GuidHigh: 16861782005126488457
+    m_Size: {x: 0.1, y: 0.056250002}
+    m_SpecifySize: 1
+    m_Name: Optimized-spider-man-wallpaper-preview
+    m_Texture: {fileID: 2800000, guid: 2ff5a59b420103548961a367651501ea, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4641788673800471884
+      m_GuidHigh: 10002340677510630828
+    m_SerializedTextureGuid:
+      m_GuidLow: 14759521087033449814
+      m_GuidHigh: 15082004333336055688
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: xWcD6t_Q_400x400
+    m_Texture: {fileID: 2800000, guid: b7841d565a3accd488cf6585080b4ed1, type: 3}
