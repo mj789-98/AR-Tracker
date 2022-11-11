@@ -18,16 +18,6 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4924449584405136516
-      m_GuidHigh: 18095929634874269339
-    m_SerializedTextureGuid:
-      m_GuidLow: 16826629026843393022
-      m_GuidHigh: 7436176996466158488
-    m_Size: {x: 0.1, y: 0.19700521}
-    m_SpecifySize: 1
-    m_Name: Spiderman
-    m_Texture: {fileID: 2800000, guid: d846fbfe31f2e98498eb4b69949b3267, type: 3}
-  - m_SerializedGuid:
       m_GuidLow: 5003417809514227427
       m_GuidHigh: 9161157140905072313
     m_SerializedTextureGuid:
@@ -38,12 +28,12 @@ MonoBehaviour:
     m_Name: Optimized-spider-man-wallpaper-preview
     m_Texture: {fileID: 2800000, guid: 2ff5a59b420103548961a367651501ea, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 4641788673800471884
-      m_GuidHigh: 10002340677510630828
+      m_GuidLow: 5750839165411946605
+      m_GuidHigh: 8946139751395438484
     m_SerializedTextureGuid:
-      m_GuidLow: 14759521087033449814
-      m_GuidHigh: 15082004333336055688
-    m_Size: {x: 0.1, y: 0.1}
+      m_GuidLow: 14854109704812932939
+      m_GuidHigh: 18346679984111841384
+    m_Size: {x: 0.1, y: 0.056250002}
     m_SpecifySize: 1
-    m_Name: xWcD6t_Q_400x400
-    m_Texture: {fileID: 2800000, guid: b7841d565a3accd488cf6585080b4ed1, type: 3}
+    m_Name: earth
+    m_Texture: {fileID: 2800000, guid: 7a0eaf4b6613ce246870c19c3d809cfe, type: 3}
